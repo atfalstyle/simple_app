@@ -1,1 +1,1 @@
-# Simple Application With PDO, DataTables ServerSide, Ajax, Jquery, Sweet Alert
+## Simple Application With PDO, DataTables ServerSide, Ajax, Jquery, Sweet Alert
