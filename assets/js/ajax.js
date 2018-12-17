@@ -398,7 +398,7 @@ $(document).ready(function() {
 		.then((willDelete) => {
 		  if (willDelete) {
 		    $.ajax({
-				url	: 'action/users/delete_action.php?id='+data_id[4],
+				url	: 'action/users/delete_action.php?id='+data_id[5],
 				success: function(message) {
 					if(message == 'Success'){
 						swal({
